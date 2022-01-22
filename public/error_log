@@ -1,0 +1,25 @@
+[21-Jan-2022 16:19:59 UTC] PHP Warning:  require(/home/bebonobo/public_html/league/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:19:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bebonobo/public_html/league/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/bebonobo/public_html/league/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:20:33 UTC] PHP Warning:  require(/home/bebonobo/public_html/league/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:20:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bebonobo/public_html/league/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/bebonobo/public_html/league/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:21:30 UTC] PHP Warning:  require(/home/bebonobo/public_html/league/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:21:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bebonobo/public_html/league/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/bebonobo/public_html/league/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:21:31 UTC] PHP Warning:  require(/home/bebonobo/public_html/league/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:21:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bebonobo/public_html/league/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/bebonobo/public_html/league/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:21:37 UTC] PHP Warning:  require(/home/bebonobo/public_html/league/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bebonobo/public_html/league/public/index.php on line 34
+[21-Jan-2022 16:21:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bebonobo/public_html/league/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/bebonobo/public_html/league/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bebonobo/public_html/league/public/index.php on line 34
